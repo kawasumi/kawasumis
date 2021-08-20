@@ -1,0 +1,3 @@
+/home/miki/test/CUnitTest/build/CMakeFiles/rebuild_cache.dir
+/home/miki/test/CUnitTest/build/CMakeFiles/unitTest.out.dir
+/home/miki/test/CUnitTest/build/CMakeFiles/edit_cache.dir
